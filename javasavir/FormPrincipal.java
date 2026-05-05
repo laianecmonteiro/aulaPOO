@@ -1,7 +1,7 @@
 package javasavir;
 
-import java.awt.*;
 import javax.swing.*;
+import java.awt.*;
 
 public class FormPrincipal extends JFrame
 {
